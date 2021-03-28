@@ -16,7 +16,6 @@ const uint32_t all_bits = (consumer_bit | producer_bit);
 
 void lights_off(void); // Turn off RED LEDs
 
-void test_git(void);
 // Sample code to write a file to the SD Card
 // void write_file_using_fatfs_pi(void) {
 //   const char *filename = "file.txt";
